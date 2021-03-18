@@ -1,6 +1,6 @@
 package com.example.runtrackertemplate;
 
-
+//.
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
